@@ -1,2 +1,2 @@
 # schemaExtracor
-Schema extractor from parquet to create Hive table automatically
+Extracting the schema of a parquet file on HDFS and creating a Hive table based on this schema.
